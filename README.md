@@ -152,7 +152,7 @@ function renderResults(items){
 /*
   buildPayPalLink(amount, item):
   - If CONFIG.PAYPAL_ME_BASE is set (e.g. https://paypal.me/YourName), we append /amount
-    Example result: https://paypal.me/YourName/50
+    Example result: https://paypal.me/WilliamEaton22928/50
   - If not set, we build a standard PayPal buy-now URL that uses no business email (works if PayPal is configured)
     For production you should use your paypal business email or server-side checkout for tracking.
 */
