@@ -16,7 +16,7 @@ const CONFIG = {
   RAPIDAPI_KEY: "",           // paste your RapidAPI key here ONLY for quick testing (not for public sites)
   RAPIDAPI_HOST: "zillow56.p.rapidapi.com", // example host (Zillow via RapidAPI)
   // PayPal: paste your PayPal.me base link here (no trailing slash)
-  // Example: "https://paypal.me/WilliamEaton5446"
+  // Example: "https://paypal.me/WilliamEaton22928"
   PAYPAL_ME_BASE: "",
 
   // application fee (USD)
